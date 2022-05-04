@@ -22,11 +22,11 @@ Challenge your solution by providing insights on how you can make improvements.
 
 ##### Data sources
 
-FinAccess Kenya 2018. [Link] (Links to an external site.)
+FinAccess Kenya 2018. [https://www.fsdkenya.org/publication/finaccess2019/]
 
-Finscope Rwanda 2016. [Link] (Links to an external site.)
+Finscope Rwanda 2016. [http://www.statistics.gov.rw/publication/finscope-rwanda-2016]
 
-Finscope Tanzania 2017. [Link] (Links to an external site.)
+Finscope Tanzania 2017. [https://www.fsdt.or.tz/finscope/]
 
-Finscope Uganda 2018. [Link]
+Finscope Uganda 2018. [https://fsduganda.or.ug/finscope-2018-survey-report/]
 
